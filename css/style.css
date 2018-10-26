@@ -50,7 +50,7 @@ table {
 body {
   font-size: 14px;
 }
- 
+ /***Fixed Nav Bar***/
 nav {
   background-color: yellow;
   height: 100px;
@@ -63,6 +63,7 @@ section.element-wrapper {
   margin: 0 auto;
   width: 60%;
 }
+/***Change Background color for Last 3 Divs***/
 section.element-wrapper div.element:nth-child(n+7){
   background-color: blueviolet;
 }
