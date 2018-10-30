@@ -57,11 +57,13 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
+  top: 0;
 }
 
 section.element-wrapper {
   margin: 0 auto;
   width: 60%;
+  margin-top: 100px;
 }
 /***Change Background color for Last 3 Divs***/
 section.element-wrapper div.element:nth-child(n+7){
